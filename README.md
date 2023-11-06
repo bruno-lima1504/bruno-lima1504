@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying with a focus on Javascript specialization, mainly ReactJS, React Native and NodeJs frameworks, missing a short path to becoming a fullstack developer<br>💻 I am looking for a junior developer job, both for Frontend and Fullstack<br>🌱 at the moment I'm learning JavaScript, ReactJs, React Native, NodeJs<br>💬 Ask me about  frontend and fullstack development
+🔭 Currently working with Fullstack web development with Javascript and PHP, mainly ReactJS, React Native and NodeJs frameworks, codeigniter 4, now I intend to focus on specializing in backend development.<br>💻 I'm currently looking for opportunities where I can develop as a fullstack programmer with a greater focus on the backend.<br>💬 Ask me about Fullstack development
 
 
 ## 🌐 Socials:
